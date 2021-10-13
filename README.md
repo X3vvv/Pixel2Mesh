@@ -42,7 +42,7 @@ Requirements:
 Our code has been tested with Python 2.7, **TensorFlow 1.3.0**, TFLearn 0.3.2, CUDA 8.0 on Ubuntu 14.04.
 
 # 环境适配性更改
-python2转python3：(2to3)[https://docs.python.org/zh-cn/3/library/2to3.html]
+python2转python3：[2to3](https://docs.python.org/zh-cn/3/library/2to3.html)
 
 # News
 - Nov. 8, we update the script for generate auxiliary data.
