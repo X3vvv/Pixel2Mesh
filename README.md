@@ -1,4 +1,10 @@
 # Pixel2Mesh
+效果展示
+
+![car.png](https://github.com/X3vvv/Pixel2Mesh/blob/master/Data/examples/car.png)
+-->
+![car.obj](https://github.com/X3vvv/Pixel2Mesh/blob/master/Data/examples/3d-car.png)
+
 This repository contains the TensorFlow implementation for the following paper</br>
 
 [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images (ECCV2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)</br>
